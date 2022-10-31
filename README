@@ -1,0 +1,13 @@
+Welcome to the Star Wars API Challenge. 
+
+To start the application run ``npm run start``
+
+To run tests run ``npm run test``
+
+The routes are defined as below:
+
+1.) http://localhost:8080/starships - Return a list of Starships related to Luke Skywalker
+
+2.) http://localhost:8080/classifications -  Return the classification of all species in the 1st episode
+
+3.) http://localhost:8080/population - Return the total population of all planets in the Galaxy
